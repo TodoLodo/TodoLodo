@@ -2,6 +2,8 @@
 
 I'm a passionate Full Stack Developer with a love for creative problem-solving and building fun projects. My expertise spans across a variety of technologies, and I'm always excited to explore new languages and frameworks.
 
+[![wakatime](https://wakatime.com/badge/user/018dc576-8867-4d3a-b126-260ae092b26a.svg)](https://wakatime.com/@018dc576-8867-4d3a-b126-260ae092b26a)
+
 ## 🚀 Quick Overview
 
 - 🔭 I'm currently working on [anan-chat](https://github.com/Curtin-Colombo-Programming-Club/anan-chat).
