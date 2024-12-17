@@ -25,7 +25,7 @@ I'm a passionate Full Stack Developer with a love for creative problem-solving a
 
 Here are some of my notable projects:
 
-- [cod-python-api](https://github.com/TodoLodo/cod-python-api)
+- [cMDA](https://github.com/Byte-Ocelots/cMDA)
 - [terminal-cam](https://github.com/TodoLodo/terminal-cam)
 - [anan-chat](https://github.com/Curtin-Colombo-Programming-Club/anan-chat)
 
