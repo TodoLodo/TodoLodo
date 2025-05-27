@@ -5,6 +5,8 @@ I'm a passionate Full Stack Developer with a love for creative problem-solving a
 [![wakatime](https://wakatime.com/badge/user/018dc576-8867-4d3a-b126-260ae092b26a.svg?style=plastic)](https://wakatime.com/@018dc576-8867-4d3a-b126-260ae092b26a)
 [![github](https://img.shields.io/github/followers/TodoLodo?logo=github&style=plastic)](https://github.com/TodoLodo?tab=followers)
 
+[![WakaTime Stats](https://wakatime.com/share/@TodoLodo/b4ef3f3c-f7b9-415f-aaea-4b6139c0ecb0.png)](https://wakatime.com/)
+
 ## 🚀 Quick Overview
 
 - 🔭 I'm currently working on [anan-chat](https://github.com/Curtin-Colombo-Programming-Club/anan-chat).
